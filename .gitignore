@@ -9,3 +9,7 @@
 /EosSharp/EosSharp/bin
 /EosSharp/EosSharp.UnitTests/bin
 /EosSharp/.vs
+/EosSharp/TestEosSharp/bin/Release
+/EosSharp/TestEosWPF/bin/Release
+/EosSharp/TestEosWPF/obj/Release
+/EosSharp/TestEosSharp/obj/Release
